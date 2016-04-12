@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testMethod(){
-        //Test Nicklas v2
+        //Test Nicklas v3
         //Test Kim
         //Henrik test 1540
     }
