@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testMethod(){
-        //Test Nicklas
+        //Test Nicklas v2
     }
 }
