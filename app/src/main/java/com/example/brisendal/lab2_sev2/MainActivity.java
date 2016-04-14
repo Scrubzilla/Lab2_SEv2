@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //Test Kim hhh
         //Henrik test 1540
         //pew
-        //testcommit
+        //testcommitjnkkjnknk
         //Jocke
         //jocke2
         //pew
