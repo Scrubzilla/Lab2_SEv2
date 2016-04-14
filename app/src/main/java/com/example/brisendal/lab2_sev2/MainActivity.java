@@ -13,11 +13,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void testMethod(){
         //Test Nicklas v3
-        //Test Kim hh
+        //Test Kim hhh
         //Henrik test 1540
         //pew
         //testcommit
-        //Jocke
-        //jocke2
+
     }
 }
